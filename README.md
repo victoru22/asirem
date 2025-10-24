@@ -1,3 +1,5 @@
+# asirem
+
 Asirem Tifinagh Font is a modern, open-source typeface that brings the elegance and heritage of the Tifinagh script into the digital age. Designed for clarity, versatility, and cultural authenticity, Asirem enables seamless typing in Tamazight across platforms such as Linux, Windows, and macOS. 
 
 Its compatibility with most modern applications ensures that Amazigh speakers, educators, and learners can easily write, communicate, and share their language online. By blending tradition with technology, Asirem empowers digital expression while preserving the cultural identity of the Amazigh people.
