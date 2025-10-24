@@ -1,10 +1,10 @@
-Copyright (c) _\<24 October 2026\>_, _\<ASIREM\> (\<https://github.com/victoru22/asirem/|victoru22@proton.me\>)_,  
-with Reserved Font Name _\<Reserved Font Name\>_.
+Copyright (c) 24 October 2026, ASIREM ( https://github.com/victoru22/asirem/ | victoru22@proton.me )
+with Reserved Font Name ASIREM.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.  
 This license is copied below, and is also available with a FAQ at:  
 https\://openfontlicense.org  
-&nbsp;
+
 
 \----------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ https\://openfontlicense.org
 
 \----------------------------------------------------------------------
 
-&nbsp;
+
 
 PREAMBLE
 -----------
