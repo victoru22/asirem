@@ -1,40 +1,7 @@
-# Noto My Font
+Asirem Tifinagh Font is a modern, open-source typeface that brings the elegance and heritage of the Tifinagh script into the digital age. Designed for clarity, versatility, and cultural authenticity, Asirem enables seamless typing in Tamazight across platforms such as Linux, Windows, and macOS. 
+Its compatibility with most modern applications ensures that Amazigh speakers, educators, and learners can easily write, communicate, and share their language online. By blending tradition with technology, Asirem empowers digital expression while preserving the cultural identity of the Amazigh people.
 
-[![][Fontbakery]](https://notofonts.github.io/noto-project-template/fontbakery/fontbakery-report.html)
-[![][Universal]](https://notofonts.github.io/noto-project-template/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://notofonts.github.io/noto-project-template/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://notofonts.github.io/noto-project-template/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://notofonts.github.io/noto-project-template/fontbakery/fontbakery-report.html)
-
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fnoto-project-template%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fnoto-project-template%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Noto Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fnoto-project-template%2Fgh-pages%2Fbadges%2FNotoFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fnoto-project-template%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fnoto-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnotofonts%2Fnoto-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
-
-## Building
-
-Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
-
-If you want to build fonts manually on your own computer:
-
-* `make build` will produce font files.
-* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
-* `make proof` will generate HTML proof files.
-
-The proof files and QA tests are also available automatically via GitHub Actions - look at `https://yourname.github.io/your-font-repository-name`.
-
-For information on how to work on Noto fonts, how the build process
-works and how to maintain it, see [the README file of the
-notofonts.github.io
-repository](https://github.com/notofonts/notofonts.github.io/blob/main/README.md)
-
-## License
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at
-https://scripts.sil.org/OFL
+More than just a font, Asirem is a bridge between heritage and innovation. It supports IRCAM Neo-Tifinagh and extended Tifinagh characters, including Tuareg variations within the Unicode range (U+2D30–U+2D7F). The font’s clean and readable design makes it ideal for both educational and professional use, fostering accessibility and creativity in Amazigh digital spaces. Free and open-source, Asirem stands as a symbol of linguistic pride and cultural continuity, dedicated to keeping the Amazigh language vibrant and visible in the global digital landscape.
 
 # License
 
