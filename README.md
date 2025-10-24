@@ -6,8 +6,16 @@ Its compatibility with most modern applications ensures that Amazigh speakers, e
 
 More than just a font, Asirem is a bridge between heritage and innovation. It supports IRCAM Neo-Tifinagh and extended Tifinagh characters, including Tuareg variations within the Unicode range (U+2D30–U+2D7F). The font’s clean and readable design makes it ideal for both educational and professional use, fostering accessibility and creativity in Amazigh digital spaces. Free and open-source, Asirem stands as a symbol of linguistic pride and cultural continuity, dedicated to keeping the Amazigh language vibrant and visible in the global digital landscape.
 
-# License
+<img width="473" height="392" alt="example" src="https://github.com/user-attachments/assets/d8672e68-608a-4044-9030-7735626a317d" />
+
+
+## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at
 https://openfontlicense.org/open-font-license-official-text/
+
+## About Author
+
+- A. Victor (victoru22@proton.me)
+
