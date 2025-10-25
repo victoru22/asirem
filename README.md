@@ -33,10 +33,10 @@ fontforge -version
 ```
 You should see output showing the installed version of FontForge.
 
-- Assuming your source file is named **asirem.std** and is located in the current directory **sources/**
+- Assuming your source file is named **asirem.sfd** and is located in the current directory **sources/**
 Run:
 ```
-fontforge -lang=ff -c 'Open("asirem.std"); Generate("asirem.ttf");'
+fontforge -lang=ff -c 'Open("asirem.sfd"); Generate("asirem.ttf");'
 ```
 After running this command, you should see a new file named: **asirem.ttf** in the same directory as your source.
 
