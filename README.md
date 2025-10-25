@@ -16,22 +16,28 @@ You’ll need FontForge, a free and open-source font editor.
 
 **Install FontForge**
 
-Run the following command in your terminal:
+- Run the following command in your terminal:
 
+```
 sudo apt update
+```
+then
+
+```
 sudo apt install fontforge
+```
 
-Verify the installation:
-
+- Verify the installation:
+```
 fontforge -version
-
+```
 You should see output showing the installed version of FontForge.
 
-Assuming your source file is named asirem.std and is located in the current directory **sources/**
+- Assuming your source file is named **asirem.std** and is located in the current directory **sources/**
 Run:
-
+```
 fontforge -lang=ff -c 'Open("asirem.std"); Generate("asirem.ttf");'
-
+```
 After running this command, you should see a new file named: **asirem.ttf** in the same directory as your source.
 
 
