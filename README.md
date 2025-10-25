@@ -8,6 +8,32 @@ More than just a font, Asirem is a bridge between heritage and innovation. It su
 
 <img width="473" height="392" alt="example" src="https://github.com/user-attachments/assets/d8672e68-608a-4044-9030-7735626a317d" />
 
+## Build from SRC
+
+**🛠️ Requirements**
+
+You’ll need FontForge, a free and open-source font editor.
+
+**Install FontForge**
+
+Run the following command in your terminal:
+
+sudo apt update
+sudo apt install fontforge
+
+Verify the installation:
+
+fontforge -version
+
+You should see output showing the installed version of FontForge.
+
+Assuming your source file is named asirem.std and is located in the current directory **sources/**
+Run:
+
+fontforge -lang=ff -c 'Open("asirem.std"); Generate("asirem.ttf");'
+
+After running this command, you should see a new file named: **asirem.ttf** in the same directory as your source.
+
 
 ## License
 
