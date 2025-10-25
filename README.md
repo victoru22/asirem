@@ -51,3 +51,7 @@ https://openfontlicense.org/open-font-license-official-text/
 
 - A. Victor (victoru22@proton.me)
 
+## Repository
+
+- **Github:** https://github.com/victoru22/asirem/
+- **SourceForge:** https://sourceforge.net/projects/asirem-tifinagh/
