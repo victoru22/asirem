@@ -8,7 +8,7 @@ More than just a font, Asirem is a bridge between heritage and innovation. It su
 
 <img width="473" height="392" alt="example" src="https://github.com/user-attachments/assets/d8672e68-608a-4044-9030-7735626a317d" />
 
-## Build from SRC
+## Building from SRC
 
 **🛠️ Requirements**
 
@@ -43,7 +43,7 @@ After running this command, you should see a new file named: **asirem.ttf** in t
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at
 https://openfontlicense.org/open-font-license-official-text/
 
